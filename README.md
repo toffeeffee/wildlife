@@ -1,2 +1,2 @@
 # wildlife
-https://github.com/toffeeffee/wildlife/index.html
+https://github.com/toffeeffee/wildlife/
